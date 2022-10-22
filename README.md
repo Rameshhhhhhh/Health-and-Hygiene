@@ -32,8 +32,8 @@ Screenshots
 
 ### About Us -
 
+![about us](https://user-images.githubusercontent.com/114379660/197346628-d1ba3d76-b26f-4acd-a89b-e196d84b3d5e.png)
 
-![screenshot5](https://user-images.githubusercontent.com/114379660/197346414-e2d6dd86-bfb5-4c2a-a2ec-34a321725f48.png)
 
 ![screenshot7](https://user-images.githubusercontent.com/114379660/197346441-332c8f60-b4ef-447b-8b18-61b3680e2509.png)
 
