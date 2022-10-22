@@ -1,5 +1,5 @@
 # Health-and-Hygiene
-# 
+
 
 This is a web based application developed for health related telugu based website in india
 
@@ -18,23 +18,26 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
-
-![screenshot1](https://user-images.githubusercontent.com/114379660/196401112-17db804b-10f2-4908-855e-bf8e2ace0e12.png)
-
-![screenshot2](https://user-images.githubusercontent.com/114379660/196401168-7712546c-efae-4d4b-b910-a18ea5e6d013.png)
+Screenshots
 
 
-   
+## ![screenshot2](https://user-images.githubusercontent.com/114379660/197346348-16455857-ae10-470f-ac81-78ebb1a48d4d.png)
+
+![screenshot3](https://user-images.githubusercontent.com/114379660/197346382-d8060e9f-77ee-4d3d-b501-847b21c64181.png)
+
+
+   ![screenshot4](https://user-images.githubusercontent.com/114379660/197346389-d10111f7-25d2-458a-a098-f4bcd4c2d484.png)
+
+![screenshot6](https://user-images.githubusercontent.com/114379660/197346430-2eaf253a-de65-4797-a069-fb7ba262a265.png)
 
 ### About Us -
 
 
-![screenshot3](https://user-images.githubusercontent.com/114379660/196401224-5ed74879-1b0b-4426-8fdf-9e55a8c6fdd6.png)
+![screenshot5](https://user-images.githubusercontent.com/114379660/197346414-e2d6dd86-bfb5-4c2a-a2ec-34a321725f48.png)
+
+![screenshot7](https://user-images.githubusercontent.com/114379660/197346441-332c8f60-b4ef-447b-8b18-61b3680e2509.png)
 
 
-
-![screenshot4](https://user-images.githubusercontent.com/114379660/196401282-46060ef5-05b9-41ac-947c-95ecb038e13f.png)
 
 ### Privacy policy -
 
